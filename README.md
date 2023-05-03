@@ -1,1 +1,1 @@
-# holbertonschool-web_react
+Project 0x00 Typescript
