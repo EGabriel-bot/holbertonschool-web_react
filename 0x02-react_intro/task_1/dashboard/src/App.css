@@ -1,0 +1,27 @@
+.App-header{
+  border-bottom: 0.313rem solid #E0354B;
+  color: #E0354B;
+  display: flex;
+  gap: 1.875rem;
+  align-items: center;
+}
+
+.App-body p{
+  margin: 4.375rem 3.75rem;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.App-footer{
+  border-top: 0.313rem #E0354B solid;
+  bottom: 0vh;
+  position: absolute;
+  width: 100vw;
+  height: 5.625rem;
+}
+
+.App-footer p {
+  text-align: center;
+  font-size: 1.5rem;
+  font-style: italic;
+}
