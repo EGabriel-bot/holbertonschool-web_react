@@ -1,13 +1,5 @@
 import './App.css';
-<<<<<<< Updated upstream
 import { getFooterCopy, getFullYear, isIndex } from './utils';
-=======
-<<<<<<< HEAD
-import { getFooterCopy, getFullYear } from './utils';
-=======
-import { getFooterCopy, getFullYear, isIndex } from './utils';
->>>>>>> 2977091e7783139a66e32ae539fca413b619532b
->>>>>>> Stashed changes
 
 function App() {
   const date = getFullYear();
