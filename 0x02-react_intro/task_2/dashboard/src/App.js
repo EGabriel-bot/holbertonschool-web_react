@@ -1,5 +1,5 @@
 import './App.css';
-import { getFooterCopy, getFullYear } from './utils';
+import { getFooterCopy, getFullYear, isIndex } from './utils';
 
 function App() {
   const date = getFullYear();
